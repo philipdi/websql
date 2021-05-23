@@ -1,4 +1,4 @@
-# websql
+# websql (https://websql.diouri.de/)
 
 ## SUPPORTED PLATTFORMS
 Congratulations! If you see this page, the hardest part is already done!! Because all you need is a computer, internetaccess and a webbrowser to use this tool. Ok... there is some more requirements you can see below.
